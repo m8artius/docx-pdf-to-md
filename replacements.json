@@ -1,0 +1,10 @@
+[
+  {
+    "find": "Contoso",
+    "replace": "Company ABC"
+  },
+  {
+    "find": "Fabrikam",
+    "replace": "ConsultantCompanyXYZ"
+  }
+]
