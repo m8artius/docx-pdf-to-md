@@ -1,0 +1,10 @@
+# Runtime working folders. Both scripts recreate these on each run
+# (New-Item -Force in Get-Folders), so nothing is lost by not tracking them.
+# input/ and output/ hold whatever documents you happen to be converting,
+# which must never land in this public repo.
+input/
+output/
+logs/
+
+# Local Claude Code settings, machine-specific by design.
+.claude/settings.local.json
