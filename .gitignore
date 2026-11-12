@@ -8,3 +8,4 @@ logs/
 
 # Local Claude Code settings, machine-specific by design.
 .claude/settings.local.json
+graphify-out/
